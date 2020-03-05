@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyayic/calculator.git"
+  },
+  "author": "fanny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyayic/calculator/issues"
+  },
+  "homepage": "https://github.com/Nyayic/calculator#readme",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
